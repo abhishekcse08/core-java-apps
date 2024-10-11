@@ -1,5 +1,5 @@
 package com.jlab.java.stack;
-
+//check class
 public class StackWithArray {
 
     static String[] stack={null,null,null,null,null};
