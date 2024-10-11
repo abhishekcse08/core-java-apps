@@ -8,6 +8,6 @@ public class MakeTree {
     }
 
     public void checkTree(){
-
+        System.out.println("Hello Check");
     }
 }
