@@ -13,9 +13,10 @@ public class MyTestData {
         System.out.println("Test data 2");
     }
 
-    public void oneMore5(){
+    public void oneMore1(){
         System.out.println("Test data 1");
         System.out.println("Test data 2");
     }
+
 
 }
