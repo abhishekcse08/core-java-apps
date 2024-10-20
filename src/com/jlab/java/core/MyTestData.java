@@ -12,6 +12,10 @@ public class MyTestData {
         System.out.println("test suite");
         System.out.println("second test suites");
     }
+
+    public void dataSetTest(){
+        System.out.println("Data Test");
+    }
     public void oneMore(){
         System.out.println("Test data 1");
         System.out.println("Test data 2");
