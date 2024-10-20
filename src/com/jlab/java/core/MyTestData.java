@@ -17,9 +17,5 @@ public class MyTestData {
         System.out.println("Test data 1");
         System.out.println("Test data 2");
     }
-    public void oneMore6(){
-        System.out.println("Test data 1");
-        System.out.println("Test data 2");
-    }
 
 }
