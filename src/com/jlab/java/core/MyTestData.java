@@ -8,4 +8,8 @@ public class MyTestData {
         System.out.println("amend commit");
         System.out.println("temporary local commit");
     }
+    public void testMySuites(){
+        System.out.println("test suite");
+        System.out.println("second test suites");
+    }
 }
