@@ -6,5 +6,6 @@ public class MyTestData {
         System.out.println("Hello");
         System.out.println("Hello first commit");
         System.out.println("amend commit");
+        System.out.println("temporary local commit");
     }
 }
