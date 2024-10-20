@@ -15,6 +15,8 @@ public class MyTestData {
 
     public void dataSetTest(){
         System.out.println("Data Test");
+        System.out.println("test commit1");
+        System.out.println("test commit 2");
     }
     public void oneMore(){
         System.out.println("Test data 1");
